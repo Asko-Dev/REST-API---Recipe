@@ -1,4 +1,4 @@
-<h2> Recipe upload API (tags & ingredients, filtration)</h>
+<h2> Recipe upload API (tags & ingredients, filtration)</h2>
 
 - User Registration
 - User Token Authentication
