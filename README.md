@@ -7,7 +7,7 @@
 - Tag API -> create tags to assign to your recipe when POSTing recipe
     - Display detail of the tag and Update or Delete (if owner)
 - Ingredient API -> create ingredients to assign to your recipe when POSTing recipe
-    - - Display detail of the ingredient and Update or Delete (if owner)
+    - Display detail of the ingredient and Update or Delete (if owner)
 - Recipe API ->
     - Upload and name recipes
     - Add Tags & Ingredients to your recipes
@@ -16,7 +16,7 @@
     - Display detail of the recipe and Update or Delete (if owner)
 - Public Recipe API ->
     - Recipes of all users displayed
-    - - Display detail of the recipe (only GET option)
+    - Display detail of the recipe (only GET option)
 - Filtering based on tags & ingredients for both Private and Public API
 
 <h2>DEPLOYED TO HEROKU using Git</h2>
@@ -38,5 +38,5 @@ URL Endpoints:</b>
 -	/api/recipe/recipes/pk/upload-image/		
 -	/api/recipe/recipes/?tags=pk&ingredients=pk
 -	/api/recipe/public-recipes/				
--	/api/recipe/public-recipes/pk/			[
+-	/api/recipe/public-recipes/pk/
 -	/api/recipe/public-recipes/?tags=pk&ingredients=pk
